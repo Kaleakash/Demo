@@ -5,3 +5,5 @@ A branch contents
 
 B branch added contents
 Done change by B branch
+
+Local master branch added contents
