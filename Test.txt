@@ -1,7 +1,23 @@
 Master contents
 
 
+
+
 A branch contents
 
 B branch added contents
 Done change by B branch
+
+Local master branch added contents
+
+Added another contents
+
+A branch contents
+
+A Branch another contents added...
+
+
+A branch contents
+
+A Branch another contents added...
+
