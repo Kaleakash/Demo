@@ -1,3 +1,7 @@
 Master contents
 
+
 A branch contents
+
+B branch added contents
+Done change by B branch
